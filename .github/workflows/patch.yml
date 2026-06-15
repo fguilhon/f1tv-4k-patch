@@ -21,8 +21,8 @@ permissions:
 
 env:
   APKTOOL_VERSION: "2.10.0"
-  APKEEP_VERSION: "0.18.0"
-  APKEEP_CUSTOM_TAG: "v0.18.1-shield"
+  APKEEP_VERSION: "1.0.0"
+  APKEEP_CUSTOM_TAG: "tcl_c7k_1.0.0"
   PLAYWRIGHT_BROWSERS_PATH: /home/runner/.cache/ms-playwright
 
 jobs:
